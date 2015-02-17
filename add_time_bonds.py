@@ -160,4 +160,4 @@ if os.path.exists(opt.ofile):
     sys.exit(0)
 
 add_time_bonds(opt.ifile, opt.ofile, opt.variable, opt.delta, opt.place, opt.cmethods)
-  morcilla mamona
+   Y en esta tambien tengo yo razon, que para eso soy mas guapa ;) 
