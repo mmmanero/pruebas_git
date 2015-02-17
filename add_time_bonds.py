@@ -1,3 +1,5 @@
+maru zoqueta
+
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov 16 12:58:44 2012
@@ -158,4 +160,4 @@ if os.path.exists(opt.ofile):
     sys.exit(0)
 
 add_time_bonds(opt.ifile, opt.ofile, opt.variable, opt.delta, opt.place, opt.cmethods)
-    
+  morcilla mamona
